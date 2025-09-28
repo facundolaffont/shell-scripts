@@ -1,4 +1,4 @@
-# Useful bash scripts
+# Useful shell scripts
 
 ## [adjust-brightness.sh](scripts/adjust-brightness.sh)
 
